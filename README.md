@@ -1,21 +1,23 @@
 # Work Day Scheduler
 
-[Work Day Scheduler](https://bjtsmith23.github.io/Daily-Planner/)
+[Work Day Scheduler](https://bjtsmith23.github.io/Work-Day-Scheduler/)
 
 Purpose: 
 
-The purpose of this project was to create a
+The purpose of this project was to create a Work Day Scheduler that was divided into time blocks. Each block represents each work hour of the day from 9-5pm and the user is able to enter in a task or thing they have to do. Once entered, the user is able to save it to the scheduler and the task will stay saved and displayed even if page is reloaded. The scheduler also is color coordinated based on time. If time is in the past the time block will appear red. If in the present, gray, and if time in the future it will appear green.
 
 
 
 
 Technologies Used:
 
--Git
--VS Code(Javascript)
+-HTML
+-CSS
+-Javascript
+
+
 
 Author:
-
 Brian Smith
 
 
